@@ -1,0 +1,6 @@
+{
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.renderWhitespace": "all",
+    "editor.formatOnSave": true,
+    "files.autoSaveWhenNoErrors": true
+}
