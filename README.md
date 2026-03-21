@@ -1,4 +1,4 @@
-# Sistema de Ingreso de Datos de Inventario
+# Sistema de Ingreso de Datos en Inventario: H1 W1
 
 ## Descripción
 Este es un programa sencillo en Python que permite al usuario ingresar información de productos en un inventario.  
