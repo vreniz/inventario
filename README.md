@@ -6,7 +6,7 @@ El sistema valida los datos ingresados, calcula el costo total de cada producto 
 
 ---
 
-## ⚙️ ¿Cómo funciona?
+##  ¿Cómo funciona?
 El programa se ejecuta en un ciclo y realiza los siguientes pasos:
 
 1. **Ingreso del nombre del producto**
@@ -53,3 +53,4 @@ A continuación se muestra el diagrama de flujo que representa el funcionamiento
 
 ```bash
 python3 inventario.py
+```
